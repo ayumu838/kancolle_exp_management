@@ -13,3 +13,9 @@
 |:-:|:-:|
 |date|DATE|
 |exp|INTEGER|
+
+# MONTHLY_EXP
+|name|type|
+|:-:|:-:|
+|month|DATE|
+|exp|INTGER|
