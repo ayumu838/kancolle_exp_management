@@ -19,3 +19,12 @@
 |:-:|:-:|
 |month|DATE|
 |exp|INTGER|
+
+
+# connect database
+
+```bash
+
+$ sqlite3 "DB NAME"
+
+```
